@@ -1,0 +1,14 @@
+layout_spectrum: 0.1765957
+typography_spectrum: 0.3468085
+color:
+  saturation: 0.1505219
+  lightness: 0.5121026
+  brandStrength: 0.4723404
+  brandColors:
+    - '#FFFEFF'
+    - '#301B1A'
+    - '#929CA6'
+    - '#FF4427'
+    - '#F9B8A0'
+  rhythmicContrast: 0.932152
+name: "Rahven's L'ukulele"
