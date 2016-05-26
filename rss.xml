@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rahven's L'ukulele]]></title>
+        <description><![CDATA[Rahven's L'ukulele]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 19:47:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artist found]]></title>
+            <description><![CDATA[<article><h1>Artist found</h1><p>Nathan agreed to paint the uke</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f809697-0b16-4420-b787-512a2ed88a75.jpg"></article>]]></description>
+            <link>undefinedartist-found/index.html</link>
+            <guid isPermaLink="false">170dc24f-a2b6-4c7a-b485-cdeb818a609c</guid>
+            <pubDate>Thu, 26 May 2016 19:47:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
